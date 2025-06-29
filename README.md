@@ -4,7 +4,7 @@
 
 ## Welcome to this Dub App Review
 
-When I first heard about Dub, I was intrigued. A mobile app that lets you copy the trades of top investors and financial creators? It almost sounded too good to be true. I’ve spent a lot of time testing various money-making apps, side hustles, and fintech tools, and Dub stood out because it promised something unique: an easy way for beginners to invest like the pros.
+When I first heard about Dub, I was intrigued. A mobile app that lets you copy the trades of top investors and financial creators? It almost sounded too good to be true. I’ve spent a lot of time testing various money-making apps, side hustles, and fintech tools, and Dub stood out because it promised something unique: an easy way for beginners to invest like the pros, even if you don't have the experience.
 
 But how well does it actually work? Can you really make money by copying someone else’s trades? And is it safe to trust a mobile app with your investment decisions?
 
